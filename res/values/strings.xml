@@ -8,125 +8,125 @@
     <string name="Orborous" translatable="false">Orborous</string>
     <string name="Rebellious" translatable="false">Rebellious</string>
 
-    <string name="Players">"Players"</string>
-    <string name="Control_">"Control:"</string>
-    <string name="CLOSE">"CLOSE"</string>
-    <string name="Stick_Size_">"Stick Size:"</string>
-    <string name="Stick_Margin_">"Stick Margin:"</string>
-    <string name="Button_Size_">"Button Size:"</string>
-    <string name="Button_Margin_">"Button Margin:"</string>
-    <string name="Buttons_">"Buttons:"</string>
-    <string name="DEFAULTS">"DEFAULTS"</string>
-    <string name="WEEKLY">"WEEKLY"</string>
-    <string name="DAILY">"DAILY"</string>
+    <string name="Players">"Lojtarët"</string>
+    <string name="Control_">"Kontrolli:"</string>
+    <string name="CLOSE">"MBYLL"</string>
+    <string name="Stick_Size_">"Madhësia e shkopit:"</string>
+    <string name="Stick_Margin_">"Marzhi i ngjitjes:"</string>
+    <string name="Button_Size_">"Madhësia e butonit:"</string>
+    <string name="Button_Margin_">"Marzhi i butonit:"</string>
+    <string name="Buttons_">"Butonat:"</string>
+    <string name="DEFAULTS">"PARALAKTUARA"</string>
+    <string name="WEEKLY">"JAVORE"</string>
+    <string name="DAILY">"PER DITË"</string>
     <string name="Server_">"Server:"</string>
     <string name="Game_Mode_">"Game Mode:"</string>
-    <string name="Show_Names">"Show Names"</string>
-    <string name="Show_Avatars">"Show Skins"</string>
-    <string name="PLAY">"PLAY"</string>
+    <string name="Show_Names">"Shfaq Emrat"</string>
+    <string name="Show_Avatars">"Shfaq Lëkurat"</string>
+    <string name="PLAY">"LUANI"</string>
     <string name="OPTIONS">"OPTIONS"</string>
 
-    <string name="Avatar_">"Skin:"</string>
-    <string name="Name_">"Name:"</string>
+    <string name="Avatar_">"Lëkur:"</string>
+    <string name="Name_">"Emri:"</string>
 
-    <string name="Loading___">"Loading…"</string>
-    <string name="Connecting___">"Connecting…"</string>
+    <string name="Loading___">"Po ngarkohet…"</string>
+    <string name="Connecting___">"Po lidhet…"</string>
 
-    <string name="Are_You_Sure_">"Are you sure?"</string>
-    <string name="Yes">"Yes"</string>
-    <string name="No">"No"</string>
-    <string name="WAIT">"WAIT…"</string>
-    <string name="Must_Specify_Name_">"Must specify name."</string>
+    <string name="Are_You_Sure_">"A je i sigurt?"</string>
+    <string name="Yes">"Po"</string>
+    <string name="No">"Jo"</string>
+    <string name="WAIT">"PRIT…"</string>
+    <string name="Must_Specify_Name_">"Duhet të specifikojë emrin."</string>
 
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Content rating of the app may change when finding groups."</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Vlerësimi i përmbajtjes së aplikacionit mund të ndryshojë kur gjen grupe."</string>
 
     <string name="_Rank_">" Rank "</string>
     <string name="_Alias_">" Alias "</string>
-    <string name="_Score_">" Score "</string>
-    <string name="Score__">"Score: "</string>
-    <string name="Recombine_">"Recombine: "</string>
-    <string name="WINNER_">"WINNER:"</string>
-    <string name="IDLE">"IDLE"</string>
-    <string name="Name_Invalid_">"Name invalid."</string>
-    <string name="Name_Taken_">"Name taken."</string>
-    <string name="CONNECTED">"CONNECTED"</string>
-    <string name="JOINING___">"JOINING…"</string>
-    <string name="PLAYING">"PLAYING"</string>
-    <string name="MULTIPLAYER">"MULTIPLAYER"</string>
+    <string name="_Score_">" Rezultati "</string>
+    <string name="Score__">"Rezultati: "</string>
+    <string name="Recombine_">"Rikombinoje: "</string>
+    <string name="WINNER_">"FITUES:"</string>
+    <string name="IDLE">"PATARE"</string>
+    <string name="Name_Invalid_">"Emri i pavlefshëm."</string>
+    <string name="Name_Taken_">"Emri i marrë."</string>
+    <string name="CONNECTED">"I LIDHUR"</string>
+    <string name="JOINING___">"BASHKIMI…"</string>
+    <string name="PLAYING">"duke luajtur"</string>
+    <string name="MULTIPLAYER">"SHUMË LOJTARËS"</string>
 
-    <string name="JOIN">"JOIN"</string>
+    <string name="JOIN">"BASHKOHU"</string>
 
 
-    <string name="Lobby_Name">"Lobby Name"</string>
-    <string name="Not_found_">"Not found."</string>
+    <string name="Lobby_Name">"Emri i Lobit"</string>
+    <string name="Not_found_">"Nuk u gjet."</string>
 
-    <string name="Hidden">"Hidden"</string>
+    <string name="Hidden">"I fshehur"</string>
 
 
     <string name="SERVER">"SERVER"</string>
-    <string name="Joining_game_in_">"Joining game in "</string>
-    <string name="Game_Full">"Game Full"</string>
-    <string name="US_East">"Central America"</string>
-    <string name="US_West">"North America"</string>
-    <string name="Europe">"Europe"</string>
-    <string name="South_America">"South America"</string>
+    <string name="Joining_game_in_">"Duke u bashkuar në lojë "</string>
+    <string name="Game_Full">"Loja Plot"</string>
+    <string name="US_East">"Amerika Qendrore"</string>
+    <string name="US_West">"Amerikën e Veriut"</string>
+    <string name="Europe">"Evropa"</string>
+    <string name="South_America">"Amerika e Jugut"</string>
 
 
-    <string name="SINGLE_PLAYER">"SINGLE PLAYER"</string>
-    <string name="Background_">"Background:"</string>
-    <string name="Difficulty_">"Difficulty:"</string>
-    <string name="Delay_Disconnect">"Delay Disconnect"</string>
+    <string name="SINGLE_PLAYER">"LOJTAR VETËM"</string>
+    <string name="Background_">"Sfondi:"</string>
+    <string name="Difficulty_">"Vështirësi:"</string>
+    <string name="Delay_Disconnect">"Shkëputja me vonesë"</string>
 
-    <string name="Max_Players">"Max Players"</string>
-    <string name="Min_Players">"Min Players"</string>
+    <string name="Max_Players">"Lojtarët maksimalë"</string>
+    <string name="Min_Players">"Lojtarët minimalë"</string>
 
-    <string name="OK">"OK"</string>
-    <string name="CANCEL" tools:ignore="ButtonCase">"CANCEL"</string>
-    <string name="Chat_Name">"Chat Name"</string>
-    <string name="Max_People">"Max People"</string>
-    <string name="START">"START"</string>
-    <string name="CREATE">"CREATE"</string>
-    <string name="CUSTOM_GAMES">"CUSTOM GAMES"</string>
-    <string name="CHAT">"CHAT"</string>
-    <string name="CUSTOM_SETUP">"CUSTOM SETUP"</string>
-    <string name="CHAT_SETUP">"CHAT SETUP"</string>
+    <string name="OK">"ANI"</string>
+    <string name="CANCEL" tools:ignore="ButtonCase">"ANULO"</string>
+    <string name="Chat_Name">"Emri i bisedës"</string>
+    <string name="Max_People">"Njerëzit maksimalë"</string>
+    <string name="START">"FILLO"</string>
+    <string name="CREATE">"KRIJONI"</string>
+    <string name="CUSTOM_GAMES">"LOJËRA ME POROSI"</string>
+    <string name="CHAT">"BISEDA"</string>
+    <string name="CUSTOM_SETUP">"KONFIGURIMI I PERSONALIZUAR"</string>
+    <string name="CHAT_SETUP">"KONFIGIMI I BISEDAVE"</string>
 
 
     <string name="ACCOUNT">"ACCOUNT"</string>
-    <string name="Red_Team">"Red Team"</string>
-    <string name="Green_Team">"Green Team"</string>
-    <string name="Blue_Team">"Blue Team"</string>
-    <string name="Yellow_Team">"Yellow Team"</string>
-    <string name="Signed_in_as_">"Signed in as:"</string>
-    <string name="Not_signed_in_">"Not signed in!"</string>
-    <string name="SET_NAME">"SET NAME"</string>
-    <string name="SIGN_OUT">"SIGN OUT"</string>
-    <string name="ACHIEVEMENTS">"ACHIEVEMENTS"</string>
-    <string name="STATISTICS">"STATISTICS"</string>
+    <string name="Red_Team">"Skuadra e Kuqe"</string>
+    <string name="Green_Team">"Skuadra e Gjelbër"</string>
+    <string name="Blue_Team">"Skuadra Kaltërt"</string>
+    <string name="Yellow_Team">"Skuadra e Verdhë"</string>
+    <string name="Signed_in_as_">"I identifikuar si:"</string>
+    <string name="Not_signed_in_">"I pa identifikuar!"</string>
+    <string name="SET_NAME">"NDRYSHO EMRIN"</string>
+    <string name="SIGN_OUT">"DILONI"</string>
+    <string name="ACHIEVEMENTS">"ARRITJET"</string>
+    <string name="STATISTICS">"STATISTIKA"</string>
     <string name="XP_">"XP:"</string>
 
-    <string name="Information">"Information"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"To use this skin you must earn the achievement"</string>
-    <string name="To_use_this_skin_you_must_reach_level">"To use this skin you must reach level"</string>
+    <string name="Information">"Informacion"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Për të përdorur këtë lëkurë duhet të fitoni arritjen"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Për të përdorur këtë lëkurë duhet të arrini një nivel"</string>
     <string name="SIGN_IN">"SIGN IN"</string>
 
-    <string name="Single_Player_Stats">"Single Player Stats"</string>
+    <string name="Single_Player_Stats">"Statistikat e një lojtari të vetëm"</string>
 
     <string name="Level">"Level"</string>
-    <string name="PAUSED">"PAUSED"</string>
+    <string name="PAUSED">"NDALUAR"</string>
 
 
-    <string name="FRIENDS">"FRIENDS"</string>
-    <string name="Warning">"Warning"</string>
+    <string name="FRIENDS">"SHOQËT"</string>
+    <string name="Warning">"Paralajmërim"</string>
     <string name="SIGNING_IN">"SIGNING IN…"</string>
-    <string name="New_Friend_Request">"New Friend Request!"</string>
-    <string name="REQUEST_FRIEND">"REQUEST FRIEND"</string>
-    <string name="Private">"Private"</string>
-    <string name="Public">"Public"</string>
+    <string name="New_Friend_Request">"Kërkesë për shoqët të re!"</string>
+    <string name="REQUEST_FRIEND">"KËRKONI SHOK"</string>
+    <string name="Private">"Privat"</string>
+    <string name="Public">"Publike"</string>
     <string name="Bot">"Bot"</string>
-    <string name="You">"You"</string>
-    <string name="This_player_is_a_bot">"This player is a bot."</string>
-    <string name="This_player_is_not_signed_in">"This player is not signed in."</string>
+    <string name="You">"Ju"</string>
+    <string name="This_player_is_a_bot">"Ky lojtar është një bot."</string>
+    <string name="This_player_is_not_signed_in">"Ky lojtar nuk është identifikuar."</string>
 
     <string name="Online">"Online"</string>
     <string name="Unknown">"Unknown"</string>
