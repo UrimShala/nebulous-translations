@@ -85,24 +85,24 @@
 
 
     <string name="ACCOUNT">"LLOGARI"</string>
-    <string name="Red_Team">"ekipi Kuq"</string>
+    <string name="Red_Team">"Ekipi i Kuq"</string>
     <string name="Green_Team">"Ekipi Gjelbër  "</string>
-    <string name="Blue_Team">"Ekipi Kalter"</string>
+    <string name="Blue_Team">"Ekipi Kaltër"</string>
     <string name="Yellow_Team">"Ekipi Verdhë"</string>
     <string name="Signed_in_as_">"Nënshkruar në si:"</string>
     <string name="Not_signed_in_">"Jo nënshkruar në?"</string>
     <string name="SET_NAME">"EMRI SET"</string>
     <string name="SIGN_OUT">"Dil jashtë"</string>
     <string name="ACHIEVEMENTS">"ARRITJET"</string>
-    <string name="STATISTICS">"STATISTIKAT"</string>
+    <string name="STATISTICS">"STATISTIKA"</string>
     <string name="XP_">"XP:"</string>
 
     <string name="Information">"informacion"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Për të përdorur këtë lëkurës ju duhet të fiton nje arritjen"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Për të përdorur këtë lëkurës ju duhet të fiton nje arritje"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Për të përdorur këtë lëkurës ju duhet të arrijnë nivelin"</string>
     <string name="SIGN_IN">"HYNI"</string>
 
-    <string name="Single_Player_Stats">"Statistikat e vetme lojtar"</string>
+    <string name="Single_Player_Stats">"Statistikat e vetme lojtarë"</string>
 
     <string name="Level">"niveli"</string>
     <string name="PAUSED">"NDALUAR"</string>
@@ -111,8 +111,8 @@
     <string name="FRIENDS">"MIQ"</string>
     <string name="Warning">"PARALAJMËRIM"</string>
     <string name="SIGNING_IN">"Nënshkrimit në …"</string>
-    <string name="New_Friend_Request">"Kërkesa e re mik"</string>
-    <string name="REQUEST_FRIEND">"SHTOJE TE SHOKET"</string>
+    <string name="New_Friend_Request">"Kërkesë miku ri"</string>
+    <string name="REQUEST_FRIEND">"KËRKONI MIK"</string>
     <string name="Private">"privat"</string>
     <string name="Public">"publik"</string>
     <string name="Bot">"bot"</string>
@@ -135,13 +135,13 @@
     <string name="NULL">"I PAVLEFSHËM"</string>
 
 
-    <string name="ALL">"të gjithë"</string>
+    <string name="ALL">"ALL"</string>
     <string name="FFA">"FFA"</string>
-    <string name="FFA_TIME">"koha FFA"</string>
+    <string name="FFA_TIME">"FFA TIME"</string>
     <string name="TEAMS">"TEAMS"</string>
-    <string name="TEAMS_TIME">"koha TEAMS"</string>
+    <string name="TEAMS_TIME">"TEAMS TIME"</string>
     <string name="CTF">"CTF"</string>
-    <string name="SURVIVAL">"MBIJETESA"</string>
+    <string name="SURVIVAL">"SURVIVAL"</string>
 
 
     <string name="Clan_XP">"Klani XP"</string>
@@ -228,19 +228,19 @@
     <string name="Absorb_5_doges_without_restarting">"Thithin 5 doges pa rifillimi"</string>
 
     <string name="Friends">"Miqtë"</string>
-    <string name="Dots_Eaten_">"Dots Ngrënë:"</string>
-    <string name="Blobs_Eaten_">"Blobs Ngrënë:"</string>
-    <string name="Blobs_Lost_">"blobs humbur:"</string>
+    <string name="Dots_Eaten_">"Dots ngrënë:"</string>
+    <string name="Blobs_Eaten_">"Blobs ngrënë:"</string>
+    <string name="Blobs_Lost_">"Blobs humbur:"</string>
     <string name="Mass_Gained_">"Fituar Mass:"</string>
     <string name="Mass_Ejected_">"Hidhet Mass:"</string>
     <string name="Times_Ejected_">"Times hidhet:"</string>
     <string name="Times_Split_">"ndarë herë:"</string>
-    <string name="Biggest_Blob_">"Blob Biggest:"</string>
+    <string name="Biggest_Blob_">"Më i madhi Blob:"</string>
     <string name="Highest_Score_">"Rezultatin më të lartë:"</string>
     <string name="Average_Score_">"rezultati mesatar:"</string>
     <string name="Times_Played_">"herë luajtur:"</string>
-    <string name="Longest_Life_">"Jeta e gjatë:"</string>
-    <string name="Games_Won_">"Lojet fituare:"</string>
+    <string name="Longest_Life_">"Më e gjata jetë:"</string>
+    <string name="Games_Won_">"Lojët fituare:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"Ju duhet të presë deri në fund të raundit"</string>
     <string name="Dont_show_again">"Mos e shfaq përsëri"</string>
@@ -250,34 +250,34 @@
     <string name="Blob_Mushiness">"Blob Mushiness"</string>
 
     <string name="Specify_private_game_name">"Specifikoni emrin Game privat"</string>
-    <string name="In_Game_Chat">"Në lojë chat"</string>
-    <string name="My_Status_">"Statusi im:"</string>
-    <string name="Game_Size_">"Lojë Size:"</string>
+    <string name="In_Game_Chat">"Në lojë biseda"</string>
+    <string name="My_Status_">"Statusi imë:"</string>
+    <string name="Game_Size_">"Madhësia e Lojës:"</string>
 
     <string name="Server_Restart_">"Server Restart:"</string>
     <string name="GOAL_">"GOL!"</string>
     <string name="SOCCER">"FUTBOLL"</string>
     <string name="DRAW">"BARAZIM"</string>
 
-    <string name="Clan_Name">"Emri Klan"</string>
-    <string name="Clan">"Fis"</string>
+    <string name="Clan_Name">"Emri Klanit"</string>
+    <string name="Clan">"Klan"</string>
 
 
-    <string name="JOIN_CLAN">"JOIN FIS"</string>
-    <string name="JOIN_RANDOM_CLAN">"bashkohet me fis rastit"</string>
-    <string name="LEAVE_CLAN">"lënë klanin"</string>
-    <string name="INVITE_MEMBER">"Fto anëtar"</string>
+    <string name="JOIN_CLAN">"Bashkohë klanin"</string>
+    <string name="JOIN_RANDOM_CLAN">"Bashkohet me klan rastit"</string>
+    <string name="LEAVE_CLAN">"Largohu nga klani"</string>
+    <string name="INVITE_MEMBER">"Ftoj anëtarin"</string>
     <string name="REMOVE_MEMBER">"Hiq anëtarin"</string>
 
 
-    <string name="CREATE_CLAN">"KRIJO FIS"</string>
+    <string name="CREATE_CLAN">"KRIJO KLAN"</string>
     <string name="MEMBER">"ANËTAR"</string>
     <string name="ADMIN">"ADMIN"</string>
     <string name="LEADER">"LEADER"</string>
     <string name="ELDER">"ELDER"</string>
 
 
-    <string name="Not_in_a_clan_">"Jo në një fis."</string>
+    <string name="Not_in_a_clan_">"Jo në një klan."</string>
 
 
     <string name="CLAN">"KLANI"</string>
@@ -286,7 +286,7 @@
     <string name="Specify_Clan_ID">"Specifikoni Klan ID"</string>
     <string name="Show_Clan_Names">"Shfaq Emrat Klan"</string>
     <string name="Show_Levels">"Shfaq Nivelet"</string>
-    <string name="SET_MOTD">"SET MOTD"</string>
+    <string name="SET_MOTD">"SET MID"</string>
     <string name="No_such_user_found_">"Ka përdorues të tilla gjenden."</string>
     <string name="No_open_public_clans_exist_">"Nuk ka klane të hapura publike ekzistojnë."</string>
     <string name="You_aren_t_invited_to_that_clan_">"Ju nuk jeni të ftuar për të klanit "</string>
